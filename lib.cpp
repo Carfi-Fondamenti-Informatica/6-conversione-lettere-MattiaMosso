@@ -13,4 +13,5 @@ char uno (char b){
         d=1;
     }
     return d;
+    
 }
